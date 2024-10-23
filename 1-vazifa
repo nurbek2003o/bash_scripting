@@ -1,0 +1,4 @@
+#! /bin/bash 
+echo "Salom"
+read name 
+echo "Salom" $name

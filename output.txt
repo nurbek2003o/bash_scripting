@@ -1,0 +1,11 @@
+agent-bot
+growz_admin
+my_script
+nurbek-portfolio1
+test-admin-wasteless
+test-app-wastless-uz
+test-betterfuture-backend
+wasteless_admin
+wasteless_backend
+wasteless_landing
+wayu_telegram_bot
